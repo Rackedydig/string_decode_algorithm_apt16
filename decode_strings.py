@@ -1,3 +1,10 @@
+## Created by Cezar Pufu
+## Cybergeeks.tech 
+## Automates the decoding of strings used in APT 16 malware samples
+## Provides an alternative to dynamic analysis in extracting imteresting strings used by the sample
+##
+
+
 import binascii
 from itertools import cycle
 import re
@@ -125,7 +132,7 @@ def main():
         
             relevant_strings.append(decoded_result)
 
-# Making all elements Lower Case for better match
+## Making all elements Lower Case for better match
 
     relevant_strings = [element.lower() for element in relevant_strings]
    
