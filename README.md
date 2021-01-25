@@ -1,7 +1,7 @@
 # string_decode_algorithm_apt16
 ---
 
-### Python script that decodes the strings from APT 16 malware samples; It was made to complement our detailed analysis of the ELMER Backdoor, found on our [blog]()
+### Python script that decodes the strings from APT 16 malware samples; It was made to complement our detailed analysis of the ELMER Backdoor, found on our [blog](https://cybergeeks.tech/a-detailed-analysis-of-elmer-backdoor-used-by-apt16/)
 
 ---
 
